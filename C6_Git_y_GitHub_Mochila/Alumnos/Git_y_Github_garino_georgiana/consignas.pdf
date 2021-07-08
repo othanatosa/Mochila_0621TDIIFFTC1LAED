@@ -1,0 +1,35 @@
+•	Git init:
+•	git config user.name “Nombre de usuario”
+•	git config user.mail “mail”
+•	Crear el repositorio por github
+•	Git init:
+•	git config user.name “Nombre de usuario”
+•	git config user.mail “mail”
+•	Crear el repositorio por github
+Git commit –m “” (mensaje de la línea del tiempo) (volver un guardado atrás)
+Git log historial de los cambios del commit
+Los commits van a ser nuestro historial de cambios que se fueron haciendo en el proyecto.
+Agregar nombre de usuario: git config user.name “Nombre de usuario”
+Agregar mail: git config user.mail “mail”
+Sincronizar repositorio git remote add origin
+git remote –v Ver si esta  bien 
+Git add . (agrega todos los archivos presentes en el repositorio)
+Git status estado de archivos
+Git push origin master  : solicita a git mandar los archivos del repositorio local al remoto Los sube 
+Git fetch origin master
+Git clone  “ url del repositorio”  permite copiar todos los archivos en cualquier computadora de todos los archivos existentes del repositorio remoto
+Git pull origin master: Los tare actualiza los archivos que clonaste los sincroniza
+
+Rama: línea paralela ddntro de un repositorio sin afecrar al código (versión 2 para probar cosas nuevas y después si queres unificas)
+	git branch
+Enumera todas las ramas de tu repositorio, es similar a git branch --list.
+ git branch <branch>
+Crea una nueva rama llamada <branch>.
+ git branch -d <branch>
+Elimina la rama llamada <branch>. Git evita que eliminemos la rama si tiene cambios
+que aún no se han fusionado con la rama Main.
+ git branch -D <branch>
+Fuerza la eliminación de la rama especificada, incluso si tiene cambios sin fusionar.
+Para moverse de una rama a otra, se ejecuta el comando
+ git checkout nombre_rama
+

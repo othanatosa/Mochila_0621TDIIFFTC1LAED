@@ -1,0 +1,16 @@
+Git init: genera un repositorio local vacio
+Agregar nombre de usuario: git config user.name “Nombre de usuario”
+Agregar mail: git config user.mail “mail”
+Sincronizar repositorio git remote add origin
+git remote –v Ver si esta  bien 
+Git add . (agrega todos los archivos presentes en el repositorio)
+Git commit –m “” (mensaje de la línea del tiempo) (volver un guardado atrás)
+Git log historial de los cambios del commit
+Los commits van a ser nuestro historial de cambios que se fueron haciendo en el proyecto.
+Git status estado de archivos
+Git push origin master  : solicita a git mandar los archivos del repositorio local al remoto Los sube 
+Git fetch origin master
+Git clone  “ url del repositorio”  permite copiar todos los archivos en cualquier computadora de todos los archivos existentes del repositorio remoto
+Git pull origin master: Los tare actualiza los archivos que clonaste los sincroniza
+git branch <branch>
+Crea una nueva rama llamada <branch>.

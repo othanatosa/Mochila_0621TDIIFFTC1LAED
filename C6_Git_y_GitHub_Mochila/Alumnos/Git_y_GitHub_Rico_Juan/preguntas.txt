@@ -1,0 +1,6 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+	RTA: Linus Torvalds. Lo creo para controlar versiones
+b. ¿A quién pertenece actualmente Github y por qué?
+	RTA: Microsoft compro git por usd7500M 
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+	RTA: Si, en la nube, aplicacion de escritorio y por consola 

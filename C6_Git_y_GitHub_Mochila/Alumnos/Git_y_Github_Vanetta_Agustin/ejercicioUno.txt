@@ -1,0 +1,7 @@
+A.	¿Quien inventó el sistema de control de versión Git y porque? Linux Torvalds lo creo en 2005 para ser utilizado en el desarrollo del kernel de Linux, con la finalidad de registrar todos los cambios realizados en el código fuente de un proyecto, de forma que sea sencillo comparar diferentes versiones del mismo, recuperar versiones anteriores y, en general, permitir que una o varias personas desarrollen un mismo proyecto de forma efectiva.
+
+B.	Pertenece a Microsoft, GitHub, que cuenta con más de 28 millones de usuarios, pasará a formar parte del negocio de Inteligencia en la Nube de Microsoft, al inicio el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este repositorio3, sin embargo no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos Open Source.
+
+C.	¿Hay otra forma que no sea la terminal para trabajar con Github?
+Desde la pagina de GitHub se puede usar las herramientas graficas que posee las mismas que son equivalentes a los comandos de la terminal
+

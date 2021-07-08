@@ -1,0 +1,6 @@
+a. ¿Quien inventó el sistem de control de versión Git y porque?
+Linux Torvalds lo creo en 2005 para ser utilizado en el desarrollo del kernel de Linux, con la finalidad de registrar todos los cambios realizados en el código fuente de un proyecto, de forma que sea sencillo comparar diferentes versiones del mismo, recuperar versiones anteriores y, en general, permitir que una o varias personas desarrollen un mismo proyecto de forma efectiva
+
+c. Desde la pagina de GitHub se puede usar las herramientas graficas que posee las mismas que son equivalentes a los comandos de la terminal
+
+b. GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como Logical Awesome LLC.El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares

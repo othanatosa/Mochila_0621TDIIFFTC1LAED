@@ -1,7 +1,11 @@
-Las computadoras se han convertido en un aspecto fundamental de nuestra vida diaria. Las utilizamos para la educación, los negocios, la administración pública, la investigación y el entretenimiento, entre otras. Desde su invención han evolucionado a un ritmo acelerado y hoy en día su desarrollo continúa rápidamente, provocando todo tipo de cambios en nuestro entorno..
+Hola!
+
+Las computadoras se han convertido en un aspecto fundamental de nuestra vida diaria. Las utilizamos para la educación, los negocios, la administración pública, la investigación y el entretenimiento, entre otras. 
+Desde su invención han evolucionado a un ritmo acelerado y hoy en día su desarrollo continúa rápidamente, provocando todo tipo de cambios en nuestro entorno..
 
 
-Como futuros desarrolladores, debemos conocer nuestra principal herramienta de trabajo. Con los conocimientos que adquiriremos en este átomo, podremos hacer un mejor uso de ella, aclarar dudas y en algunos casos desmitificar supuestos.
+Como futuros desarrolladores, debemos conocer nuestra principal herramienta de trabajo. Con los conocimientos que adquiriremos en este átomo, podremos hacer un mejor uso de ella, aclarar dudas y en algunos casos 
+desmitificar supuestos.
 
 
 Los invitamos a que se sumen en un viaje hacia el interior de la computadora, y nos acompañen a descubrir el fascinante mundo que existe dentro la misma. Cómo se interrelacionan sus componentes internos y externos. Cuál es el que “dirige”, y cómo se realizan paso a paso las diferentes tareas que le enviamos como usuarios.

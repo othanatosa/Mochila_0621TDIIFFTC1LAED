@@ -10,6 +10,4 @@ a la integración con otras plataformas y servicios.
 3 GitLab.
 4 Kiln.
 5 Codeplane.
-6 CodePlex.
-7 Beanstalk.
 

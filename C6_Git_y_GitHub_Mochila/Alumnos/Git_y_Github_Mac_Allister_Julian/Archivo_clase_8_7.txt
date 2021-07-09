@@ -1,0 +1,3 @@
+a.Git fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+b.Github le pertenece a Microsoft, lo compro para que el mundo esté preparado para los nuevos cambios que se avecinan.
+c.Se puede trabajar por la interfaz grafica.

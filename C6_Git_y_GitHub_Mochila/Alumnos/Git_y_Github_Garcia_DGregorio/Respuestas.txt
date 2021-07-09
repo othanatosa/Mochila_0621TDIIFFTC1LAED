@@ -1,6 +1,0 @@
-Pregunta 1
-Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux
-Pregunta 2
-En 2018 Microsoft compró GitHub por 7.500 millones de dólares. El fin.... Tener a mano sus bases de datos de los desarrolladores y los proyectos que alli se almacenan. Y despues hacer GitHub Copilot.
-Pregunta 3
-Si, se puede trabajar desde la plataforma Web.

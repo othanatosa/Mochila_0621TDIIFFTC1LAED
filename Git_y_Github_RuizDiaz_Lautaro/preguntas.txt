@@ -1,4 +1,0 @@
-a.Linus Torvalds
-b.Microsoft
-c.GitHub Desktop, la aplicación de escritorio de GitHub, te permitirá empezar a utilizar un control de versiones sin problemas. 
-GitHub Desktop es, de hecho, una Interfaz Gráfica de Usuario (GUI, por sus siglas en inglés) diseñada para facilitar el uso de Git.

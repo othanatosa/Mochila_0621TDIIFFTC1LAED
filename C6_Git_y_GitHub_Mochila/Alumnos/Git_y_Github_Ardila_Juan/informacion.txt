@@ -1,0 +1,4 @@
+a. Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux
+b. Microsoft Microsoft asegura que GitHub mantendrá su distintivo enfoque de anteponer a los desarrolladores y seguirá operando de forma independiente 
+c. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades
+
